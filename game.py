@@ -4,6 +4,8 @@ import sys
 import math
 import random
 
+
+
 class player:
     def __init__(self, coordinate : tuple, radius, screen):
         (self.x, self.y) = coordinate
